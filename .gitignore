@@ -2,5 +2,6 @@
 *_old.*
 *profile-pic-old*
 *.ps1
+push.bat
 .DS_Store
 Thumbs.db
