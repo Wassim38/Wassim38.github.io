@@ -1,0 +1,6 @@
+*.old.*
+*_old.*
+*profile-pic-old*
+*.ps1
+.DS_Store
+Thumbs.db
